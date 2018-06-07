@@ -19,7 +19,7 @@ The framework is as follows:
 ## Performance
 
 ## Citation
-Please cite the following if you find it useful.
+Please cite the following papers if you find it useful.
 ```
 @inproceedings{zhang2016siamese,
       title={Siamese neural network based gait recognition for human identification},
@@ -28,6 +28,14 @@ Please cite the following if you find it useful.
       pages={2832--2836},
       year={2016},
       booktitle={IEEE}
+}
+
+@article{Liu2018LearningES,
+  title={Learning Efficient Spatial-Temporal Gait Features with Deep Learning for Human Identification},
+  author={Wu Liu and Cheng Zhang and Huadong Ma and Shuangqun Li},
+  journal={Neuroinformatics},
+  year={2018},
+  pages={1-15}
 }
 ```
 
